@@ -1,33 +1,27 @@
-import {useState} from "react";
-import Home from "./Pages/Home";
-import Service from "./Pages/Service";
-import About from "./Pages/About";
-import Project from "./Pages/Project";
-import Blog from "./Pages/Blog";
-import Contact from "./Pages/Contact";
-import {HashRouter, Route, BrowserRouter as Router, Routes} from "react-router-dom";
-import Navbar from "./components/Navbar";
+import React from "react";
+import Navmenu from "./layout/Navmenu";
+import Home from "./pages/Home";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import TeamPage from "./pages/TeamPage";
+import ServicePage from "./pages/ServicePage";
+import ProjectPage from "./pages/ProjectPage";
+import TestimonialPage from "./pages/TestimonialPage";
 
-
-function App() {
+const App = () => {
   return (
     <>
-     
-      <Router>
-       <Navbar />
+      <BrowserRouter>
+        <Navmenu />
         <Routes>
-       
           <Route path="/" element={<Home />} />
-          <Route path="/service" element={<Service />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/project" element={<Project />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/teampage" element={<TeamPage />} />
+          <Route path="/servicepage" element={<ServicePage />} />
+          <Route path="/projectpage" element={<ProjectPage />} />
+          <Route path="/testimonialpage" element={<TestimonialPage />} />
         </Routes>
-      </Router>
-
+      </BrowserRouter>
     </>
   );
-}
+};
 
 export default App;

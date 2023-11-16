@@ -1,0 +1,94 @@
+{
+  "groupImages": [
+    {
+      "src": "./src/images/homeImages/Rectangle 1241.png"
+    },
+    {
+      "src": "./src/images/homeImages/Rectangle 1242.png"
+    },
+    {
+      "src": "./src/images/homeImages/Rectangle 1243.png"
+    },
+    {
+      "src": "./src/images/homeImages/Rectangle 1244.png"
+    }
+  ],
+  "customerImages": [
+    {
+      "src": "./src/images/homeImages/logos_google.png"
+    },
+    {
+      "src": "./src/images/homeImages/Trello-logo-blue 1.png"
+    },
+    {
+      "src": "./src/images/homeImages/logos_monday.png"
+    },
+    {
+      "src": "./src/images/homeImages/Notion.png"
+    },
+    {
+      "src": "./src/images/homeImages/Slack.png"
+    }
+  ],
+  "workList": [
+    {
+      "cardTitle": "Grow Your Business ",
+      "cardDescription": "  SWe help identify the best ways to improve your business",
+      "imgSrc": "./src/images/homeImages/Activity.png "
+    },
+    {
+      "cardTitle": "Improve brand loyalty ",
+      "cardDescription": "  SWe help identify the best ways to improve your business",
+      "imgSrc": "./src/images/homeImages/Heart.png "
+    },
+    {
+      "cardTitle": "Improve Business Model",
+      "cardDescription": "  SWe help identify the best ways to improve your business",
+      "imgSrc": "./src/images/homeImages/Work.png "
+    }
+  ],
+  "statList": [
+    {
+      "cardTitle": "240452 ",
+      "cardDescription": "  Followers",
+      "imgSrc": "./src/images/homeImages/Group 3.png "
+    },
+    {
+      "cardTitle": "6300",
+      "cardDescription": " Solved Problems",
+      "imgSrc": "./src/images/homeImages/Like.png "
+    },
+    {
+      "cardTitle": "25000",
+      "cardDescription": "Happy Customers",
+      "imgSrc": "./src/images/homeImages/Happy 1.png "
+    },
+    {
+      "cardTitle": "360452",
+      "cardDescription": "Projects",
+      "imgSrc": "./src/images/homeImages/Scan 3.png "
+    }
+  ],
+  "featureData": [
+    {
+      "cardTitle": "Redesign channel website landng page",
+      "date": "App Design - June 20,2022",
+      "imgSrc": "./src/images/homeImages/Mask (1).png "
+    },
+    {
+      "cardTitle": "Redesign channel website landng page",
+      "date": "App Design - June 20,2022",
+      "imgSrc": "./src/images/homeImages/Mask (2).png "
+    },
+    {
+      "cardTitle": "Redesign channel website landng page",
+      "date": "App Design - June 20,2022",
+      "imgSrc": "./src/images/homeImages/Mask (3).png "
+    },
+    {
+      "cardTitle": "Redesign channel website landng page",
+      "date": "App Design - June 20,2022",
+      "imgSrc": "./src/images/homeImages/Mask (4).png "
+    }
+  ]
+}

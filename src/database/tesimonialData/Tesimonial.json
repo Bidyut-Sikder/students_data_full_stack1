@@ -1,0 +1,40 @@
+{
+    "testimonials":[
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (10).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        },
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (11).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        },
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (12).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        },
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (13).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        },
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (14).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        },
+        {
+            "name":"ALICE BRADLY ",
+            "title":"Backend Developer ",
+            "img":"/src/images/tesimonialImages/Rectangle 2097 (15).png ",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare."
+        }
+    ]
+}

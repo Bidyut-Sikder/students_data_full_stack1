@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (4).png "
+    },
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (5).png "
+    },
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (6).png "
+    },
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (7).png "
+    },
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (8).png "
+    },
+    {
+      "title": "LOREM IPSUM DOLOR SIT CONSECTUTAR ",
+      "projectImg": "./src/images/projectImages/Rectangle 2097 (9).png "
+    }
+  ]
+}
