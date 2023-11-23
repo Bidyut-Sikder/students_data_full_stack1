@@ -4,8 +4,12 @@ import AllServices from "../components/serviceComponents/AllServices";
 import SubscriptionForm from "../components/commonComponents/SubscriptionForm";
 import FooterArea from "../components/commonComponents/FooterArea";
 import Frame from "../components/commonComponents/Frame";
+import { useParams } from "react-router-dom";
 
 const ServicePage = () => {
+
+ 
+
   const data = {
     boldTitle: "Our All Services ",
     headerTitle: (

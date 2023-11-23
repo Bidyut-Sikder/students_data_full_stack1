@@ -20,7 +20,7 @@ const TeamPage = () => {
     <>
       <div className="container">
         <BGComponent page={"Team"}/>
-        <Frame data={data} />
+       
         <TeamList />
         <SubscriptionForm />
       </div>
