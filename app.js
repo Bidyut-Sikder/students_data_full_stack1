@@ -35,7 +35,7 @@ app.use(limiter)
 
 
   mongoose.connect('mongodb://localhost:27017/CRUDAPP')
-  //mongoose.connect("mongodb+srv://bidyutsikder420:bidyutkumar@cluster0.mbahdsf.mongodb.net/CRUD")
+ 
     .then(() => {
         console.log('connected to db')
     })
