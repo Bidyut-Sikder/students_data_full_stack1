@@ -17,7 +17,7 @@ require("dotenv").config()
 
 
 
-app.listen(process.env.RUNNING_PORT, () => {
-   console.log("runnig on port " + process.env.RUNNING_PORT)
+app.listen(8000, () => {
+   console.log("runnig on port 8000" )
 
 })
